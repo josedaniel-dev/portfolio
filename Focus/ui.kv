@@ -1,0 +1,128 @@
+<SplashScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Image:
+            id: splash_image
+            source: 'assets/imagenes/logo_focus_splash.png'
+            size_hint: 0.5, 0.5
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+            opacity: 0  # Inicialmente invisible para aplicar animación de fade in
+            canvas.before:
+                Color:
+                    rgba: 1, 1, 1, 1
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+
+<MainScreen@Screen>:
+    AnchorLayout:
+        anchor_y: 'top'
+        BoxLayout:
+            orientation: 'vertical'
+            padding: 20
+            spacing: 20
+            size_hint: (1, 1)
+            BoxLayout:
+                orientation: 'vertical'
+                size_hint_y: None
+                height: '150dp'
+                Image:
+                    source: 'assets/imagenes/logo_focus_main.png'
+                    size_hint: None, None
+                    size: 300, 150
+                    pos_hint: {'center_x': 0.5, 'top': 1}
+
+            TextInput:
+                id: tarea_input
+                size_hint_y: None
+                height: '40dp'
+                hint_text: 'Ingrese una nueva tarea'
+                multiline: False
+
+            BoxLayout:
+                size_hint_y: None
+                height: '40dp'
+                spacing: 10
+
+                Button:
+                    text: 'Añadir Tarea'
+                    on_press: app.añadir_tarea(tarea_input.text)
+
+                Button:
+                    text: 'Exportar CSV'
+                    on_press: app.exportar_csv()
+
+                Button:
+                    text: 'Importar CSV'
+                    on_press: app.importar_csv()
+
+            ScrollView:
+                size_hint: (1, 1)
+                GridLayout:
+                    id: lista_tareas
+                    cols: 1
+                    size_hint_y: None
+                    height: self.minimum_height
+                    spacing: 5
+
+<ToDoItem@BoxLayout>:
+    orientation: 'horizontal'
+    size_hint_y: None
+    height: '40dp'
+    Label:
+        id: texto
+        text: root.text
+        size_hint_x: 0.5
+    Label:
+        id: fecha_vencimiento
+        text: root.fecha_texto
+        size_hint_x: 0.3
+    Button:
+        text: 'Eliminar'
+        size_hint_x: 0.2
+        on_press: app.eliminar_tarea(root)
+
+<NotificacionPopup>:
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 10
+        spacing: 10
+        Label:
+            id: notificacion_texto
+            text: 'Notificación'
+        Button:
+            text: 'Cerrar'
+            size_hint_y: None
+            height: '40dp'
+            on_press: root.dismiss()
+
+<EditarTareaPopup@Popup>:
+    title: 'Editar Tarea'
+    size_hint: 0.8, 0.5
+    auto_dismiss: False
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 10
+        spacing: 10
+
+        TextInput:
+            id: texto_input
+            hint_text: 'Modificar el texto de la tarea'
+            multiline: False
+
+        TextInput:
+            id: fecha_input
+            hint_text: 'dd/mm/yyyy (opcional)'
+            multiline: False
+
+        BoxLayout:
+            size_hint_y: None
+            height: '40dp'
+            spacing: 10
+
+            Button:
+                text: 'Aceptar'
+                on_press: root.validar_cambios()
+            Button:
+                text: 'Cancelar'
+                on_press: root.cancelar_edicion()
