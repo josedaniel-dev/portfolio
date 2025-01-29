@@ -15,6 +15,14 @@ A collection of **data-driven generative art** experiments using Matplotlib and 
 
 ### 🤖 MAIC (Mentor Académico Inteligente y Colaborativo)  
 An **AI-powered academic assistant** with NLP capabilities, knowledge management, and interactive learning modules.  
+
+🌱 About Me
+
+I am a Python developer, game designer, and AI enthusiast passionate about creating innovative applications and interactive experiences. Feel free to explore my work, give feedback, and connect! 🚀
+
+📧 Contact: [jdsotomarin@gmail.com]🔗 LinkedIn: [Your Profile]
+
+
   
 
 
