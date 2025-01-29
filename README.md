@@ -20,7 +20,7 @@ An **AI-powered academic assistant** with NLP capabilities, knowledge management
 
 I am a Python developer, game designer, and AI enthusiast passionate about creating innovative applications and interactive experiences. Feel free to explore my work, give feedback, and connect! 🚀
 
-📧 Contact: [jdsotomarin@gmail.com]🔗 LinkedIn: [Your Profile]
+📧 Contact: [jdsotomarin@gmail.com]🔗 LinkedIn: [(https://www.linkedin.com/in/josedanielsoto/)]
 
 
   
