@@ -8,10 +8,6 @@ A **2D space shooter** inspired by *Space Invaders*, developed with Pygame. Feat
 
 ### ✅ Focus  
 A **task management app** built with Tkinter. Allows users to create, edit, and organize their to-do lists efficiently.  
- 
-
-### 📊 Generative Visualization Experiments  
-A collection of **data-driven generative art** experiments using Matplotlib and NumPy.  
 
 
 🌱 About Me
