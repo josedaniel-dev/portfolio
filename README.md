@@ -13,8 +13,6 @@ A **task management app** built with Tkinter. Allows users to create, edit, and 
 ### 📊 Generative Visualization Experiments  
 A collection of **data-driven generative art** experiments using Matplotlib and NumPy.  
 
-### 🤖 MAIC (Mentor Académico Inteligente y Colaborativo)  
-An **AI-powered academic assistant** with NLP capabilities, knowledge management, and interactive learning modules.  
 
 🌱 About Me
 
