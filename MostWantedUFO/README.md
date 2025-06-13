@@ -63,6 +63,5 @@ Developed by **Jose Daniel Soto**, Python developer and creative technologist.
 🔗 [https://github.com/josedaniel-dev](https://github.com/josedaniel-dev)
 
 ## 🔗 Project Repository
-
-[https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO]([https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO](https://github.com/josedaniel-dev/portfolio-py/edit/main/MostWantedUFO))
+[https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO](https://github.com/josedaniel-dev/portfolio/tree/main/MostWantedUFO)]
 
