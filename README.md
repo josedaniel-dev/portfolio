@@ -32,7 +32,7 @@ I’m currently looking for opportunities as a **Junior Python Developer**, **Da
 
 ---
 
-### 👾 [Most Wanted UFO](https://github.com/josedaniel-dev/portfolio/MostWantedUFO) (coming soon)
+### 👾 [Most Wanted UFO](https://github.com/josedaniel-dev/portfolio/tree/main/MostWantedUFO)
 > 2D arcade shooter game made with pygame.
 - Player controls, scoring and enemy waves
 - Progressive difficulty
