@@ -1,45 +1,68 @@
-# 🎮 Most Wanted UFO  
+# 👾 Most Wanted UFO
 
-Most Wanted UFO is a **2D space shooter** inspired by *Space Invaders*, developed using Pygame. The game challenges players to defeat waves of enemies, collect power-ups, and achieve high scores while navigating through space.
+**Most Wanted UFO** is a 2D arcade-style space shooter inspired by classics like *Space Invaders*, developed with **Python** and **Pygame**. The game challenges players to defeat waves of alien enemies, collect power-ups, and achieve high scores while navigating dynamic combat scenarios in space.
 
-## 🔧 Features  
-- Classic arcade-style **space shooter** gameplay.  
-- Multiple enemy types with different attack patterns.  
-- Power-ups that enhance the player's abilities.  
-- Scoring system to track high scores.  
-- Retro pixel-art graphics and engaging sound effects.  
+## 🎮 Gameplay Features
 
-## 🛠 Installation  
+- Classic retro-style arcade shooter mechanics  
+- Multiple enemy types with unique attack patterns  
+- Power-ups that enhance firepower and defense  
+- Scoring system that tracks performance and high scores  
+- Pixel-art visuals and engaging sound effects  
 
-1. **Clone this repository:**  
-   ```bash
-   git clone https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO
-   ```  
-2. **Navigate to the project folder:**  
-   ```bash
-   cd MostWantedUFO
-   ```  
-3. **Install dependencies:**  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-4. **Run the game:**  
-   ```bash
-   python main.py
-   ```  
+## 🛠️ Technologies Used
 
-## 🚀 How to Play  
-- **Arrow Keys:** Move the spaceship left and right.  
-- **Spacebar:** Shoot projectiles.  
-- **Avoid enemy fire** and **destroy enemies** to earn points.  
-- **Collect power-ups** to enhance your firepower.  
+- **Python 3.10+**  
+- **Pygame**  
+- Modular code structure with separate logic for:
+  - Player controls  
+  - Enemy behavior  
+  - Game state management  
+  - Audio and visual effects  
 
-## 🌱 About the Developer  
+## 🚀 How to Run the Game
 
-This game was created by **Daniel Soto**, a passionate Python developer and game designer. Feel free to explore the project, provide feedback, and contribute! 
+```bash
+git clone https://github.com/josedaniel-dev/portfolio-py.git
+cd portfolio-py/MostWantedUFO
+pip install -r requirements.txt
+python main.py
+````
 
-📧 Contact: jdsotomarin@gmail.com  
-🔗 GitHub: (https://github.com/josedaniel-dev)
+## 🎯 Controls
 
-🔗 [Project Repository](https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO)
+* **Arrow keys**: Move the spaceship left and right
+* **Spacebar**: Fire projectiles
+* Avoid enemy fire, destroy aliens, collect power-ups to level up
+
+## 📁 Project Structure
+
+```
+MostWantedUFO/
+├── main.py
+├── player.py
+├── enemy.py
+├── powerups.py
+├── assets/
+├── requirements.txt
+└── README.md
+```
+
+## ✅ Roadmap (Completed)
+
+* [x] Core gameplay mechanics
+* [x] Boss-level enemy AI
+* [x] Leaderboard saving system
+* [x] In-game music and settings menu
+
+## 👤 About the Developer
+
+Developed by **Jose Daniel Soto**, Python developer and creative technologist.
+
+📧 [jdsotomarin@gmail.com](mailto:jdsotomarin@gmail.com)
+🔗 [https://github.com/josedaniel-dev](https://github.com/josedaniel-dev)
+
+## 🔗 Project Repository
+
+[https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO]([https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO](https://github.com/josedaniel-dev/portfolio-py/edit/main/MostWantedUFO))
 
