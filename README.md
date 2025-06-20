@@ -40,11 +40,10 @@ A supervised machine learning system that classifies financial trade signals (bu
 ### 🐾 Mundomascota.org – Animal Welfare Companion Website (WIP)
 A minimalist, informative web platform for animal care, education, and adoption awareness.
 
-- Built using HTML/CSS and JS for responsiveness and accessibility.
-- Designed with SEO best practices and scalable architecture in mind.
-- Provides educational content and links to real-world resources.
-
-🔗 [Live (WIP)](https://github.com/josedaniel-dev)
+- Designed and implemented the full site using HTML, CSS, and responsive design principles.
+- Authored all written content and copywriting to align with mission and tone.
+- Created the branding and graphic assets using AI-powered tools.
+🔗 [E-commerce](https://mundomascota.org/)
 
 ---
 
