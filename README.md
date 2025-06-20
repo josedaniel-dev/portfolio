@@ -43,6 +43,7 @@ A minimalist, informative web platform for animal care, education, and adoption 
 - Designed and implemented the full site using HTML, CSS, and responsive design principles.
 - Authored all written content and copywriting to align with mission and tone.
 - Created the branding and graphic assets using AI-powered tools.
+  
 🔗 [E-commerce](https://mundomascota.org/)
 
 ---
