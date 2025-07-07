@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-Self-taught Python developer with practical experience in data science, machine learning, automation, and creative technology. I build solutions from scratch with structured logic and a focus on real-world applications. My work blends automation, intelligent systems, and experimental design. Strong believer in accessible AI, open source, and creative autonomy.
+Python developer with practical experience in data science, machine learning, automation, and creative technology. I build solutions from scratch with structured logic and a focus on real-world applications. My work blends automation, intelligent systems, and experimental design. Strong believer in accessible AI, open source, and creative autonomy.
 
 ---
 
