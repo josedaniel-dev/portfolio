@@ -25,6 +25,12 @@ A modular system that generates, corrects, and publishes long-form content using
 
 ---
 
+### 🛰️ WebHunter Local – Smart Digital Prospecting System (2025 - In development)
+Automated Python tool for collecting, analyzing, and exporting public data of local businesses in any city.
+
+- Includes modules for scraping (requests, bs4), data cleaning (pandas), ML-based classification (scikit-learn), personalized message generation, and export to multiple formats (.csv, .json, .pdf).
+- Relevance: Demonstrates experience in ETL, data modeling (classification), prospecting automation, and report generation, directly applicable to improving sales and customer service.
+
 ### 📊 Signal Classifier – ML Trade Signal Failure Detection
 A supervised machine learning system that classifies financial trade signals (buy, sell, fail) with emphasis on error simulation and feature optimization.
 
@@ -37,7 +43,7 @@ A supervised machine learning system that classifies financial trade signals (bu
 
 ---
 
-### 🐾 Mundomascota.org – Animal Welfare Companion Website (WIP)
+### 🐾 Mundomascota.org – Animal Welfare Companion Website 
 A minimalist, informative web platform for animal care, education, and adoption awareness.
 
 - Designed and implemented the full site using HTML, CSS, and responsive design principles.
