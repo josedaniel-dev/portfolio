@@ -23,7 +23,7 @@ Automated end-to-end Python scraper for structured product data collection and e
 - Built for real-world web automation tasks (e.g. e-commerce analysis, data extraction pipelines).
 ❗️Originally developed for a technical interview project; released as open source for transparency and community use.
 
-🔗  [Repository](https://github.com/josedaniel-dev)
+🔗  [Repository](https://github.com/josedaniel-dev/scrapper)
 
 ---
 
