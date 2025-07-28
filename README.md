@@ -13,6 +13,23 @@ Python developer with practical experience in data science, machine learning, au
 
 ## 🚀 Projects
 
+###🕸️ Scrape & Classify – Web Data Extraction Pipeline
+Automated end-to-end Python scraper for structured product data collection and enrichment.
+
+Crawls multi-page websites using requests, BeautifulSoup, and custom pagination logic.
+
+Extracts and parses product data into a clean structured format with pandas.
+
+Includes adaptive feature: intelligently detects product categories, stock status, and flags inconsistencies.
+
+Modular CLI-based design with logging, error handling, and CSV export.
+
+Built for real-world web automation tasks (e.g. e-commerce analysis, data extraction pipelines).
+
+❗️Originally developed for a technical interview project; released as open source for transparency and community use.
+
+🔗 Repository
+
 ### 🛡️ Blogbot – AI-Powered Offline Article Generator
 A modular system that generates, corrects, and publishes long-form content using local LLMs. Designed for disconnected or restricted environments.
 
