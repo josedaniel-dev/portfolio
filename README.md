@@ -18,6 +18,19 @@
 
 ## 🚀 Projects
 
+### 🏠 Airbnb Price Prediction & Insights – Kaggle Dataset Technical Challenge
+
+A complete end-to-end machine learning pipeline to clean, engineer, analyze, and model Airbnb listing data for price prediction and feature insights. Originally developed as part of a technical job interview, now open-sourced for portfolio purposes.
+
+* Built entirely in Python within a single, well-documented Jupyter Notebook.
+* Implements robust data cleaning (handling currency formatting, outliers, missing values).
+* Performs feature engineering to create numeric-only datasets for modeling.
+* Conducts Exploratory Data Analysis (EDA) with visual insights into feature–price relationships.
+* Trains and evaluates multiple models (Linear Regression, Decision Tree) with performance metrics (MAE, RMSE).
+* Includes detailed conclusions on price predictability, key influencing factors, and dataset limitations.
+
+🔗 [Repository](https://github.com/josedaniel-dev/airbnb_price_prediciton)
+
 ### 🕸️ Scrape & Classify – Web Data Extraction Pipeline
 Automated end-to-end Python scraper for structured product data collection and enrichment.
 
