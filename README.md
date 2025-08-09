@@ -31,6 +31,8 @@ A complete end-to-end machine learning pipeline to clean, engineer, analyze, and
 
 🔗 [Repository](https://github.com/josedaniel-dev/airbnb_price_prediciton)
 
+---
+
 ### 🕸️ Scrape & Classify – Web Data Extraction Pipeline
 Automated end-to-end Python scraper for structured product data collection and enrichment.
 
