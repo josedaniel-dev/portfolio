@@ -13,7 +13,7 @@ Focus is a **task management application** built with Tkinter, designed to help 
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/your-username/Focus.git
+   git clone https://github.com/josedaniel-dev/Focus.git
    ```  
 2. **Navigate to the project folder:**  
    ```bash
