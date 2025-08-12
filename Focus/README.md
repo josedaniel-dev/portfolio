@@ -40,5 +40,5 @@ Focus is a **task management application** built with Tkinter, designed to help 
 This project was developed by **Jose Daniel Soto**, a Python developer passionate about productivity tools and automation. Contributions and feedback are welcome!
 
 📧 Contact: jdsotomarin@gmail.com 
-🔗 GitHub: [[Your Profile]  ](https://github.com/josedaniel-dev)
+🔗 GitHub: [josedaniel-dev]  ](https://github.com/josedaniel-dev)
 
