@@ -47,38 +47,6 @@ Automated end-to-end Python scraper for structured product data collection and e
 
 ---
 
-### 🛡️ Blogbot – AI-Powered Offline Article Generator
-A modular system that generates, corrects, and publishes long-form content using local LLMs. Designed for disconnected or restricted environments.
-
-* Built in Python using Ollama + Mistral for local inference.
-* Automates grammar correction, HTML formatting, and Blogger publication via secure SMTP.
-* Features modular structure with `.env`, logging, archive, and CI-compatible scripts.
-* Fully offline and privacy-respecting, ready for regenerative and remote use-cases.
-
-🔗 [Repository (coming soon)](https://github.com/josedaniel-dev)
-
----
-
-### 🛰️ WebHunter Local – Smart Digital Prospecting System (2025 - In development)
-Automated Python tool for collecting, analyzing, and exporting public data of local businesses in any city.
-
-* Includes modules for scraping (requests, bs4), data cleaning (pandas), ML-based classification (scikit-learn), personalized message generation, and export to multiple formats (.csv, .json, .pdf).
-* **Relevance:** Demonstrates experience in ETL, data modeling (classification), prospecting automation, and report generation, directly applicable to improving sales and customer service.
-
----
-
-### 📊 Signal Classifier – ML Trade Signal Failure Detection
-A supervised machine learning system that classifies financial trade signals (buy, sell, fail) with emphasis on error simulation and feature optimization.
-
-* Includes realistic error injection using MACD and RSI ambiguity zones.
-* Removes redundant features via correlation matrix diagnostics.
-* Uses RandomForestClassifier with balanced weights and advanced metrics (F1, ROC AUC).
-* Auto-saves model, reports, and supports modular retraining.
-
-🔗 [Repository (coming soon)](https://github.com/josedaniel-dev)
-
----
-
 ### 🐾 Mundomascota.org – Animal Welfare Companion Website
 A minimalist, informative web platform for animal care, education, and adoption awareness.
 
@@ -98,6 +66,14 @@ A 2D space shooter inspired by classic games like Space Invaders, built using Py
 * Demonstrates use of Python game dev libraries and interaction design.
 
 🔗 [GitHub Repo](https://github.com/josedaniel-dev/portfolio-py/tree/main/MostWantedUFO)
+
+---
+### 🐉 Focus – Aplicación de Gestión de Tareas
+
+* Diseñé una interfaz de usuario (GUI) limpia y minimalista con Tkinter, enfocada en la usabilidad y la claridad visual.
+* Este proyecto destaca mi habilidad para estructurar información de manera lógica y presentarla en un formato visualmente limpio y funcional.
+
+[Github Repo](https://github.com/josedaniel-dev/portfolio/tree/main/Focus)
 
 ---
 
